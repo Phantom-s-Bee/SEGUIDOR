@@ -28,8 +28,3 @@ obs: Quando voce realizar modificações no código e desejar subir para o repos
 * Certifique-se de não haver atualizações para subir
 * Execute o comando abaixo
 * * git pull origin main
-
-
-
-git push -u origin main
-
